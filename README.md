@@ -14,7 +14,6 @@
   <img align="center" alt="VM-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="VM-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VM-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="VM-React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/react-original.svg">
 </div>
 
 ##
